@@ -4,7 +4,7 @@
   "description": "Modern frontend stack",
   "main": "index.js",
   "scripts": {
-    "start": "parcel -p 3000 index.html",
+    "start": "parcel -p 3000 index.html --open",
     "build": "parcel build index.html"
   },
   "repository": {
@@ -18,11 +18,12 @@
   },
   "homepage": "https://github.com/reblim/fedstart#readme",
   "devDependencies": {
-    "autoprefixer": "^7.2.4",
-    "babel-cli": "6.26.0",
-    "babel-preset-env": "1.6.1",
-    "node-sass": "^4.7.2",
-    "parcel-bundler": "^1.4.1"
+    "autoprefixer": "^9.8.6",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "node-sass": "^4.14.1",
+    "parcel-bundler": "^1.12.4"
   },
   "dependencies": {
     "normalize.css": "^7.0.0"
