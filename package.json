@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/reblim/fedstart#readme",
   "devDependencies": {
-    "autoprefixer": "^10.0.1",
+    "autoprefixer": "^9.8.6",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
